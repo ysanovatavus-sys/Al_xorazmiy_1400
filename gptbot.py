@@ -6,6 +6,8 @@ from aiogram import Bot,Dispatcher,types,F
 from aiogram.filters import Command
 from req import ai_chat
 
+#qatar qostim
+
 api = '8745752908:AAHMmHLanzs1XJ1xK64pIlJNXszKNKDvkgY'
 bot = Bot(api)
 dp=Dispatcher()
